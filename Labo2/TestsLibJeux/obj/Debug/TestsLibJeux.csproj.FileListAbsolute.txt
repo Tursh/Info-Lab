@@ -1,0 +1,17 @@
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/obj/Debug/TestsLibJeux.csprojResolveAssemblyReference.cache
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/obj/Debug/TestsLibJeux.csproj.CoreCompileInputs.cache
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/bin/Debug/TestsLibJeux.exe
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/bin/Debug/TestsLibJeux.pdb
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/bin/Debug/LibJeux.dll
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/bin/Debug/LibJeux.pdb
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/obj/Debug/TestsLibJeux.exe
+/home/kyle/RiderProjects/Labo2_2019/TestsLibJeux/obj/Debug/TestsLibJeux.pdb
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/bin/Debug/TestsLibJeux.exe
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/bin/Debug/TestsLibJeux.pdb
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/bin/Debug/LibJeux.dll
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/bin/Debug/LibJeux.pdb
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/obj/Debug/TestsLibJeux.csprojAssemblyReference.cache
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/obj/Debug/TestsLibJeux.csproj.CoreCompileInputs.cache
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/obj/Debug/TestsLibJeux.csproj.CopyComplete
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/obj/Debug/TestsLibJeux.exe
+/home/raph/Documents/School/Session_2/Info/Labo2/TestsLibJeux/obj/Debug/TestsLibJeux.pdb

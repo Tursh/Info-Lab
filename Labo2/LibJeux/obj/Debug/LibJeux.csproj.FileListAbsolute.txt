@@ -1,0 +1,12 @@
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/bin/Debug/LibJeux.dll
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/bin/Debug/LibJeux.pdb
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/obj/Debug/LibJeux.csprojResolveAssemblyReference.cache
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/obj/Debug/LibJeux.csproj.CoreCompileInputs.cache
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/obj/Debug/LibJeux.dll
+/home/kyle/RiderProjects/Labo2_2019/LibJeux/obj/Debug/LibJeux.pdb
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/bin/Debug/LibJeux.dll
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/bin/Debug/LibJeux.pdb
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/obj/Debug/LibJeux.csprojAssemblyReference.cache
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/obj/Debug/LibJeux.csproj.CoreCompileInputs.cache
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/obj/Debug/LibJeux.dll
+/home/raph/Documents/School/Session_2/Info/Labo2/LibJeux/obj/Debug/LibJeux.pdb
