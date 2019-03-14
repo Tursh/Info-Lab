@@ -5,7 +5,7 @@ namespace LibJeux
 {
     public class Item
     {
-        private const string DEFAULT_VALUE = "default";
+        private const string DefaultValue = "default";
         
         private string nom, description;
 
@@ -15,8 +15,8 @@ namespace LibJeux
             string nomWithoutInvisibleDigit = new string(nom.Where(c => !char.IsControl(c)).ToArray());
             string descriptionWithoutInvisibleDigit = new string(description.Where(c => !char.IsControl(c)).ToArray());
             //Verifie si le nom et la description sans les digits invisible est vide ou null
-            string nomResult = (string.IsNullOrEmpty(nomWithoutInvisibleDigit) || String.IsNullOrWhiteSpace(nomWithoutInvisibleDigit)) ? DEFAULT_VALUE : nom;
-            string descriptionResult = (string.IsNullOrEmpty(descriptionWithoutInvisibleDigit) || String.IsNullOrWhiteSpace(descriptionWithoutInvisibleDigit)) ? DEFAULT_VALUE : description;
+            string nomResult = (string.IsNullOrEmpty(nomWithoutInvisibleDigit) || String.IsNullOrWhiteSpace(nomWithoutInvisibleDigit)) ? DefaultValue : nom;
+            string descriptionResult = (string.IsNullOrEmpty(descriptionWithoutInvisibleDigit) || String.IsNullOrWhiteSpace(descriptionWithoutInvisibleDigit)) ? DefaultValue : description;
             
             //Enleve les espaces surperflues entourante
             while (nomResult.ToCharArray()[0] == ' ')

@@ -4,7 +4,7 @@ namespace LibJeux
 {
     public class Joueur
     {
-        private const int PV_INITIAL = 10;
+        private const int PVInitial = 10;
         
         private int pV, pVMax;
         private Inventaire inventairePrincipal;
@@ -61,43 +61,43 @@ namespace LibJeux
 
         public Joueur(Vecteur3 positionInitial, int capaciteDeLinventaire, int masseInitial)
         {
-            pV = PV_INITIAL;
-            pVMax = PV_INITIAL;
-            inventairePrincipal = new Inventaire(capaciteDeLinventaire);
-            position = positionInitial;
-            vitesse = new Vecteur3();
-            accélération = new Vecteur3();
-            masse = masseInitial;
+            PV = PVInitial;
+            PVMax = PVInitial;
+            InventairePrincipal = new Inventaire(capaciteDeLinventaire);
+            Position = positionInitial;
+            Vitesse = new Vecteur3();
+            Accélération = new Vecteur3();
+            Masse = masseInitial;
         }
 
         public void DéposerItem(Item item)
         {
-            inventairePrincipal.AjouterItem(item);
+            InventairePrincipal.AjouterItem(item);
         }
 
         public string GénérerChaine()
         {
             string stringBuffer = string.Empty;
-            stringBuffer += $"PV: {pV}/{pVMax}\n";
-            stringBuffer += $"position: {position.GénérerChaine()}\n";
-            stringBuffer += $"Inventaire : {inventairePrincipal.GénérerChaine()}";
+            stringBuffer += $"PV: {PV}/{PVMax}\n";
+            stringBuffer += $"position: {Position.GénérerChaine()}\n";
+            stringBuffer += $"Inventaire : {InventairePrincipal.GénérerChaine()}";
             return stringBuffer;
         }
 
         public void AppliquerForceContinue(Vecteur3 nouvelleForce)
         {
-            accélération = nouvelleForce / masse;
+            Accélération = nouvelleForce / Masse;
         }
 
         public void AjouterForceContinue(Vecteur3 nouvelleForce)
         {
-            accélération += nouvelleForce / masse;
+            Accélération += nouvelleForce / Masse;
         }
 
         public void MettreÀJour(float deltaTemps)
         {
-            position = vitesse * deltaTemps + accélération / 2 * (deltaTemps * deltaTemps);
-            vitesse += accélération * deltaTemps;
+            Position = Vitesse * deltaTemps + Accélération / 2 * (deltaTemps * deltaTemps);
+            Vitesse += Accélération * deltaTemps;
         }
         
     }

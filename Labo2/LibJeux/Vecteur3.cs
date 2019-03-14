@@ -26,17 +26,17 @@ namespace LibJeux
 
         public String GénérerChaine()
         {
-            return $"({x},{y},{z})";
+            return $"({X},{Y},{Z})";
         }
         
         public static Vecteur3 operator + (Vecteur3 vecteur_1, Vecteur3 vecteur_2)
         {
-            return new Vecteur3(vecteur_1.x + vecteur_2.x, vecteur_1.y + vecteur_2.y, vecteur_1.z + vecteur_2.z);
+            return new Vecteur3(vecteur_1.X + vecteur_2.X, vecteur_1.Y + vecteur_2.Y, vecteur_1.Z + vecteur_2.Z);
         }
 
         public static Vecteur3 operator *(Vecteur3 vecteur, float multiplier)
         {
-            return new Vecteur3(vecteur.x * multiplier, vecteur.y * multiplier, vecteur.z * multiplier);
+            return new Vecteur3(vecteur.X * multiplier, vecteur.Y * multiplier, vecteur.Z * multiplier);
         }
         
         public static Vecteur3 operator / (Vecteur3 vecteur, float denominator)
