@@ -1,0 +1,6 @@
+/home/kyle/RiderProjects/Labo3_2019/Streamer/bin/Debug/Streamer.exe
+/home/kyle/RiderProjects/Labo3_2019/Streamer/bin/Debug/Streamer.pdb
+/home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.csprojResolveAssemblyReference.cache
+/home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.csproj.CoreCompileInputs.cache
+/home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.exe
+/home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.pdb

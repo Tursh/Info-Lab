@@ -1,0 +1,6 @@
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/bin/Debug/Lecteur.exe
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/bin/Debug/Lecteur.pdb
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/obj/Debug/Lecteur.csprojResolveAssemblyReference.cache
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/obj/Debug/Lecteur.csproj.CoreCompileInputs.cache
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/obj/Debug/Lecteur.exe
+/home/kyle/RiderProjects/Labo3_2019/Lecteur/obj/Debug/Lecteur.pdb
