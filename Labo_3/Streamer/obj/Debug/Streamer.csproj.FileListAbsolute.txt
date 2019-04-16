@@ -4,3 +4,9 @@
 /home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.csproj.CoreCompileInputs.cache
 /home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.exe
 /home/kyle/RiderProjects/Labo3_2019/Streamer/obj/Debug/Streamer.pdb
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/bin/Debug/Streamer.exe
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/bin/Debug/Streamer.pdb
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/obj/Debug/Streamer.csprojAssemblyReference.cache
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/obj/Debug/Streamer.csproj.CoreCompileInputs.cache
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/obj/Debug/Streamer.exe
+/home/raph/Documents/School/Session_2/Info/Labo_3/Streamer/obj/Debug/Streamer.pdb

@@ -54,6 +54,7 @@ namespace Labo3_2019
 
             //COMPLÉTEZ
             Écrivain.Write(données);
+            Écrivain.Flush();
         }
     }
 }

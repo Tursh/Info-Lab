@@ -16,7 +16,9 @@ namespace Labo3_2019
             
             //Tests
             //Testez serveur.EnvoyerDonnées ici
-            serveur.EnvoyerDonnées("255,0,0/255,0,0/255,0,0/255,0,0/255,0,0/255,0,0/");
+            serveur.EnvoyerDonnées("3:2\n255,0,0/255,0,0/255,0,0/255,0,0/255,0,0/255,0,0/\n");
+            serveur.EnvoyerDonnées("1:2\n0,0,255/0,0,255/\n");
+            Console.ReadLine();
         }
     }
 }
