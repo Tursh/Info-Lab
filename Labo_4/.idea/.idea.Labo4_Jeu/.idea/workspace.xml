@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4112509-271a-4fad-82a2-b9ba96293db8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Labo_3/.idea/.idea.Labo3_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Labo_3/.idea/.idea.Labo3_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Labo_3/Streamer/obj/Debug/Streamer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Labo_3/Streamer/obj/Debug/Streamer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Entite.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Entite.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Joueur.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Joueur.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Labo4_Jeu.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Labo4_Jeu.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Patineur.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Patineur.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4_Jeu/Scene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4_Jeu/Scene.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <marker date="1557188251462" expanded="false" signature="6:53" ph="..." />
+                <marker date="1557188251462" expanded="true" signature="88:1005" ph="{...}" />
+                <marker date="1557188251462" expanded="true" signature="147:1003" ph="{...}" />
+                <marker date="1557188251462" expanded="true" signature="348:633" ph="{...}" />
+                <marker date="1557188251462" expanded="true" signature="677:897" ph="{...}" />
+                <marker date="1557188251462" expanded="true" signature="778:887" ph="{...}" />
+                <marker date="1557188251462" expanded="true" signature="941:997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+              <folding>
+                <marker date="1556029464000" expanded="false" signature="6:111" ph="..." />
+                <marker date="1556029464000" expanded="true" signature="166:2514" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="195:2512" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="503:616" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="642:703" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="751:1348" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="837:1304" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="1395:1830" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="1858:2506" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="2060:2496" ph="{...}" />
+                <marker date="1556029464000" expanded="true" signature="2262:2482" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Scene.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <marker date="1557188250159" expanded="false" signature="6:115" ph="..." />
+                <marker date="1557188250159" expanded="true" signature="170:3366" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="195:3364" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="380:485" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="524:633" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="671:764" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="792:877" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="932:1149" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1184:1286" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1337:1608" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1468:1598" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1642:1982" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1696:1972" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="1775:1958" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="2032:2384" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="2408:2471" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="2529:2590" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="2622:3358" ph="{...}" />
+                <marker date="1557188250159" expanded="true" signature="3035:3348" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Entite.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="89" column="51" lean-forward="true" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
+              <folding>
+                <marker date="1557187541910" expanded="false" signature="6:87" ph="..." />
+                <marker date="1557187541910" expanded="true" signature="122:3043" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="192:3041" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="207:271" ph="/* complétez la classe ... */" />
+                <marker date="1557187541910" expanded="true" signature="496:582" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="622:722" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="745:819" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="846:922" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="949:1025" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="1069:1165" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="1224:1328" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="1381:1445" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="1501:2421" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="2046:2313" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="2519:2648" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="2691:2764" ph="{...}" />
+                <marker date="1557187541910" expanded="true" signature="2840:3035" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <marker date="1557188110611" expanded="false" signature="6:53" ph="..." />
+                <marker date="1557188110611" expanded="true" signature="88:846" ph="{...}" />
+                <marker date="1557188110611" expanded="true" signature="148:844" ph="{...}" />
+                <marker date="1557188110611" expanded="true" signature="233:309" ph="{...}" />
+                <marker date="1557188110611" expanded="true" signature="433:495" ph="{...}" />
+                <marker date="1557188110611" expanded="true" signature="565:706" ph="{...}" />
+                <marker date="1557188110611" expanded="true" signature="757:829" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Patineur.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding>
+                <marker date="1557188178000" expanded="true" signature="6:39" ph="..." />
+                <marker date="1557188178000" expanded="true" signature="74:344" ph="{...}" />
+                <marker date="1557188178000" expanded="true" signature="135:342" ph="{...}" />
+                <marker date="1557188178000" expanded="true" signature="295:336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Joueur.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="48" column="9" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+              <folding>
+                <marker date="1557183648862" expanded="false" signature="6:53" ph="..." />
+                <marker date="1557183648862" expanded="true" signature="88:1819" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="146:1817" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="242:356" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="436:580" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="663:756" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="914:1089" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="1151:1307" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="1351:1811" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="1391:1801" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="1449:1787" ph="{...}" />
+                <marker date="1557183648862" expanded="true" signature="1539:1769" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Carte.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/EtatClavier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Joueur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Entite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/GestionnaireRessources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Labo4_Jeu/Patineur.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Labo4_Jeu/ÉtatClavier.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Program.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Carte.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Entité.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Scène.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/GestionnaireRessources.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Joueur.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Entite.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Patineur.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs" />
+        <option value="$PROJECT_DIR$/Labo4_Jeu/Scene.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1277" />
+    <option name="y" value="176" />
+    <option name="width" value="1926" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Labo4_Jeu" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="References" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assemblies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/packages/SFML.Graphics.2.5.0/lib/netstandard2.0/SFML.Graphics.dll" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Labo4_Jeu/bin/Debug/Labo4_Jeu.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labo4_Jeu/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Labo4_Jeu/Labo4_Jeu.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4112509-271a-4fad-82a2-b9ba96293db8" name="Default Changelist" comment="" />
+      <created>1555283673560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555283673560</updated>
+      <workItem from="1555283674652" duration="24057000" />
+      <workItem from="1555388622834" duration="1757000" />
+      <workItem from="1555875626629" duration="20084000" />
+      <workItem from="1555947848316" duration="12179000" />
+      <workItem from="1556217982811" duration="3256000" />
+      <workItem from="1556221348485" duration="164000" />
+      <workItem from="1557179659920" duration="283000" />
+      <workItem from="1557183522833" duration="708000" />
+      <workItem from="1557184636388" duration="679000" />
+      <workItem from="1557185520093" duration="3256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66423000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1277" y="176" width="1926" height="1053" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27179763" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36582693" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32700893" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.31243357" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3549107" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32938644" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27321815" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36911282" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32858709" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.31243357" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.35158816" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32991362" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Labo4_Jeu/Scène.cs</url>
+          <line>93</line>
+          <properties documentPath="$PROJECT_DIR$/Labo4_Jeu/Scène.cs" initialLine="93" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E68FBA52-605F-4EEE-8878-3890392BDDFC/51/c9309898/Vertex.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E68FBA52-605F-4EEE-8878-3890392BDDFC/d7/0ce1b3ea/VertexArray.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E68FBA52-605F-4EEE-8878-3890392BDDFC/c2/b0a2cfca/Font.cs" />
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/dataCarte">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/ÉtatClavier.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF4B14B0-2FF9-4A85-8962-6FA5288DDC78/98/17be248a/Vector2i.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E68FBA52-605F-4EEE-8878-3890392BDDFC/53/660dd3ff/Sprite.cs" />
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Entité.cs" />
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Scène.cs" />
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/EtatClavier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556030836000" expanded="true" signature="67:236" ph="{...}" />
+            <marker date="1556030836000" expanded="true" signature="113:234" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Carte.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <marker date="1556031284000" expanded="false" signature="6:56" ph="..." />
+            <marker date="1556031284000" expanded="true" signature="111:3653" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="162:3651" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="367:460" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="497:590" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="622:713" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="743:846" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="878:985" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="1025:1128" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="1266:1590" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="1723:3434" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="1908:3424" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="1974:3410" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="2115:3392" ph="{...}" />
+            <marker date="1556031284000" expanded="true" signature="3502:3645" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/GestionnaireRessources.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <marker date="1556220118870" expanded="false" signature="6:53" ph="..." />
+            <marker date="1556220118870" expanded="true" signature="108:1162" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="157:1160" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="322:425" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="463:562" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="596:689" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="738:1154" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="790:956" ph="{...}" />
+            <marker date="1556220118870" expanded="true" signature="998:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <marker date="1556029464000" expanded="false" signature="6:111" ph="..." />
+            <marker date="1556029464000" expanded="true" signature="166:2514" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="195:2512" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="503:616" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="642:703" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="751:1348" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="837:1304" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="1395:1830" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="1858:2506" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="2060:2496" ph="{...}" />
+            <marker date="1556029464000" expanded="true" signature="2262:2482" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Entite.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="89" column="51" lean-forward="true" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
+          <folding>
+            <marker date="1557187541910" expanded="false" signature="6:87" ph="..." />
+            <marker date="1557187541910" expanded="true" signature="122:3043" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="192:3041" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="207:271" ph="/* complétez la classe ... */" />
+            <marker date="1557187541910" expanded="true" signature="496:582" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="622:722" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="745:819" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="846:922" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="949:1025" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="1069:1165" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="1224:1328" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="1381:1445" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="1501:2421" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="2046:2313" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="2519:2648" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="2691:2764" ph="{...}" />
+            <marker date="1557187541910" expanded="true" signature="2840:3035" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Joueur.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <marker date="1557183648862" expanded="false" signature="6:53" ph="..." />
+            <marker date="1557183648862" expanded="true" signature="88:1819" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="146:1817" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="242:356" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="436:580" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="663:756" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="914:1089" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="1151:1307" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="1351:1811" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="1391:1801" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="1449:1787" ph="{...}" />
+            <marker date="1557183648862" expanded="true" signature="1539:1769" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Patineur.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <marker date="1557188178000" expanded="true" signature="6:39" ph="..." />
+            <marker date="1557188178000" expanded="true" signature="74:344" ph="{...}" />
+            <marker date="1557188178000" expanded="true" signature="135:342" ph="{...}" />
+            <marker date="1557188178000" expanded="true" signature="295:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Guerrier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <marker date="1557188110611" expanded="false" signature="6:53" ph="..." />
+            <marker date="1557188110611" expanded="true" signature="88:846" ph="{...}" />
+            <marker date="1557188110611" expanded="true" signature="148:844" ph="{...}" />
+            <marker date="1557188110611" expanded="true" signature="233:309" ph="{...}" />
+            <marker date="1557188110611" expanded="true" signature="433:495" ph="{...}" />
+            <marker date="1557188110611" expanded="true" signature="565:706" ph="{...}" />
+            <marker date="1557188110611" expanded="true" signature="757:829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Scene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <marker date="1557188250159" expanded="false" signature="6:115" ph="..." />
+            <marker date="1557188250159" expanded="true" signature="170:3366" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="195:3364" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="380:485" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="524:633" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="671:764" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="792:877" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="932:1149" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1184:1286" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1337:1608" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1468:1598" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1642:1982" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1696:1972" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="1775:1958" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="2032:2384" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="2408:2471" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="2529:2590" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="2622:3358" ph="{...}" />
+            <marker date="1557188250159" expanded="true" signature="3035:3348" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labo4_Jeu/Ennemi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <marker date="1557188251462" expanded="false" signature="6:53" ph="..." />
+            <marker date="1557188251462" expanded="true" signature="88:1005" ph="{...}" />
+            <marker date="1557188251462" expanded="true" signature="147:1003" ph="{...}" />
+            <marker date="1557188251462" expanded="true" signature="348:633" ph="{...}" />
+            <marker date="1557188251462" expanded="true" signature="677:897" ph="{...}" />
+            <marker date="1557188251462" expanded="true" signature="778:887" ph="{...}" />
+            <marker date="1557188251462" expanded="true" signature="941:997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

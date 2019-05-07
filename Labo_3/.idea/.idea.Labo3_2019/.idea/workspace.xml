@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0107df66-318c-43ca-bad1-9ec52b5b2c1a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Labo3_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Labo3_2019/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streamer/obj/Debug/Streamer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Streamer/obj/Debug/Streamer.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecteur/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="180">
               <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
                 <marker date="1554383379000" expanded="false" signature="6:74" ph="..." />
@@ -27,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lecteur/Client.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="265">
@@ -52,19 +53,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/3f/24b29b02/Socket.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="2121" column="6" selection-start-line="2121" selection-start-column="6" selection-end-line="2121" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Streamer/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <marker date="1555445714003" expanded="false" signature="6:72" ph="..." />
                 <marker date="1555445714003" expanded="true" signature="94:730" ph="{...}" />
@@ -79,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Streamer/Serveur.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="810">
               <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding>
                 <marker date="1555443821371" expanded="false" signature="6:105" ph="..." />
@@ -100,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/1d/806a9820/TcpClient.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
+            <state relative-caret-position="1260">
               <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
             </state>
           </provider>
@@ -117,7 +109,7 @@
     <setting file="file://$PROJECT_DIR$/Lecteur/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Lecteur/Client.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Streamer/Serveur.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/1d/806a9820/TcpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/1d/806a9820/TcpClient.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,8 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -244,11 +236,12 @@
       <workItem from="1554838806722" duration="247000" />
       <workItem from="1554917586692" duration="1956000" />
       <workItem from="1555439529156" duration="5993000" />
+      <workItem from="1556216817512" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8196000" />
+    <option name="totallyTimeSpent" value="9188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,12 +256,11 @@
     <frame x="-3" y="0" width="1926" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18945102" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19214208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32924107" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -283,6 +275,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32924107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -297,16 +290,9 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/1d/806a9820/TcpClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecteur/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="180">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
             <marker date="1554383379000" expanded="false" signature="6:74" ph="..." />
@@ -319,14 +305,14 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/3f/24b29b02/Socket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
+        <state relative-caret-position="37998">
           <caret line="2121" column="6" selection-start-line="2121" selection-start-column="6" selection-end-line="2121" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Streamer/Serveur.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="810">
           <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding>
             <marker date="1555443821371" expanded="false" signature="6:105" ph="..." />
@@ -339,6 +325,27 @@
             <marker date="1555443821371" expanded="true" signature="1045:1159" ph="/* Un StreamWriter a un constructeur qui prend un NetworkStream en paramètre ... */" />
             <marker date="1555443821371" expanded="true" signature="1260:1301" ph="{...}" />
             <marker date="1555443821371" expanded="true" signature="1361:1585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39D3C56F-950C-4C90-AF99-2DB8AECD123C/1d/806a9820/TcpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="72" column="10" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Streamer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1555445714003" expanded="false" signature="6:72" ph="..." />
+            <marker date="1555445714003" expanded="true" signature="94:730" ph="{...}" />
+            <marker date="1555445714003" expanded="true" signature="123:728" ph="{...}" />
+            <marker date="1555445714003" expanded="true" signature="176:722" ph="{...}" />
+            <marker date="1555445714003" expanded="true" signature="467:522" ph="/* Tests ... */" />
           </folding>
         </state>
       </provider>
@@ -361,20 +368,6 @@
             <marker date="1555445662202" expanded="true" signature="1353:1394" ph="{...}" />
             <marker date="1555445662202" expanded="true" signature="1454:2199" ph="{...}" />
             <marker date="1555445662202" expanded="true" signature="1875:2129" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Streamer/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <marker date="1555445714003" expanded="false" signature="6:72" ph="..." />
-            <marker date="1555445714003" expanded="true" signature="94:730" ph="{...}" />
-            <marker date="1555445714003" expanded="true" signature="123:728" ph="{...}" />
-            <marker date="1555445714003" expanded="true" signature="176:722" ph="{...}" />
-            <marker date="1555445714003" expanded="true" signature="467:522" ph="/* Tests ... */" />
           </folding>
         </state>
       </provider>

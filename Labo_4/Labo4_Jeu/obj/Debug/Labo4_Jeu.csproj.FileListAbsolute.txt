@@ -1,0 +1,16 @@
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/obj/Debug/Labo4_Jeu.csprojAssemblyReference.cache
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/obj/Debug/Labo4_Jeu.csproj.CoreCompileInputs.cache
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/Labo4_Jeu.exe.config
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/Labo4_Jeu.exe
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/Labo4_Jeu.pdb
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Audio.dll
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Graphics.dll
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.System.dll
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Window.dll
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Audio.xml
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Graphics.xml
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.System.xml
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/bin/Debug/SFML.Window.xml
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/obj/Debug/Labo4_Jeu.csproj.CopyComplete
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/obj/Debug/Labo4_Jeu.exe
+/home/raph/Documents/School/Session_2/Info/Labo_4/Labo4_Jeu/obj/Debug/Labo4_Jeu.pdb

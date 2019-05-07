@@ -5,7 +5,7 @@ using SFML.System;
 //À COMPLÉTER
 namespace Labo4_Jeu
 {
-    public class Joueur //complétez cette ligne
+    public class Joueur : Entité//complétez cette ligne
     {
         private Vector2i positionPrécédente;
 
@@ -31,16 +31,21 @@ namespace Labo4_Jeu
         }
 
         public Joueur(Vector2i positionInitiale)
+            :base(GestionnaireRessources.Textures[0], positionInitiale)
             //complétez cette ligne
         {
             PositionPrécédente = Position;
             //complétez le reste du constructeur
+            PV = 15;
+            Atq = 5;
+            Déf = 3;
         }
 
         public override void SubirDégats(int dégatsInitiaux)
         {
             Position = positionPrécédente;
             //complétez le reste de la méthode
+            base.SubirDégats(dégatsInitiaux);
         }
 
         public override void MettreÀJour()

@@ -45,7 +45,7 @@ namespace Labo4_Jeu
             
             VérifierCollision();
 
-            MettreHUDÀJour();
+            MettreHUDÀJour(fenêtre);
             DessinerScène(fenêtre);
         }
 

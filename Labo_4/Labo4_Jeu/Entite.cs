@@ -17,7 +17,7 @@ namespace Labo4_Jeu
         private int atq;
         private List<uint> tuileBloquées;
 
-        private Vector2i Position
+        public Vector2i Position
         {
             get => position;
             set => position = value;
@@ -29,25 +29,25 @@ namespace Labo4_Jeu
             set => spriteÀDessiner = value;
         }
 
-        private int PV
+        public int PV
         {
             get => pV;
             set => pV = value;
         }
 
-        private int Déf
+        protected int Déf
         {
             get => déf;
             set => déf = value;
         }
 
-        private int Atq
+        protected int Atq
         {
             get => atq;
             set => atq = value;
         }
 
-        private List<uint> TuileBloquées
+        protected List<uint> TuileBloquées
         {
             get => tuileBloquées;
             set => tuileBloquées = value;
@@ -64,7 +64,7 @@ namespace Labo4_Jeu
             TuileBloquées.Add(typeDeTuile);
         }
 
-        bool Déplacer(Vector2i deltaDePosition)
+        public bool Déplacer(Vector2i deltaDePosition)
         {
             Vector2i nouvellePosition = deltaDePosition + Position;
             //Check s'il se trouvera toujour dans la carte
@@ -87,7 +87,7 @@ namespace Labo4_Jeu
 
         public abstract void MettreÀJour();
 
-        public void SubirDégats(int Degats)
+        public virtual void SubirDégats(int Degats)
         {
             Degats -= Déf;
             if (Degats < 1)
