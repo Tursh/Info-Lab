@@ -21,14 +21,20 @@ namespace Labo4_Jeu
             directionPatrouille.Y = (rand / 3) - 1;
         }
 
+        private int count = 0;
+        
         public override void MettreÀJour()
         {
+            ++count;
             //S'il ne peut pas se deplacer
-            if (!Déplacer(directionPatrouille))
+            if (count >= 60 && !Déplacer(directionPatrouille))
             {
                 //Inverse la position
                 directionPatrouille *= -1;
             }
+
+            if (count >= 60)
+                count -= 60;
         }
 
         public void Attaquer(Entité cible)

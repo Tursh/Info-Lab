@@ -39,6 +39,7 @@ namespace Labo4_Jeu
             PV = 15;
             Atq = 5;
             Déf = 3;
+            TuileBloquées.Add(1);
         }
 
         public override void SubirDégats(int dégatsInitiaux)

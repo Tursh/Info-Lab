@@ -21,6 +21,7 @@ namespace Labo4_Jeu
         {
             Atq = 6;
             Arm = 2;
+            TuileBloquées.Add(2);
         }
         
         public override void SubirDégats(int dégatsInitiaux)

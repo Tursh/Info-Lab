@@ -7,4 +7,5 @@
 	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/AutoDetectedNamingRules/=Property/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="" Suffix="" Style="AaBb" /&gt;</s:String>
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
   &lt;Assembly Path="/home/raph/Documents/School/Session_2/Info/Labo_4/packages/SFML.Graphics.2.5.0/lib/netstandard2.0/SFML.Graphics.dll" /&gt;
+  &lt;Assembly Path="/home/raph/Documents/School/Session_2/Info/Labo_4/packages/SFML.Net.x64.2.4.0/lib/sfmlnet-audio-2.dll" /&gt;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

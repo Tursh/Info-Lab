@@ -12,6 +12,8 @@ namespace Labo4_Jeu
             : base(GestionnaireRessources.Textures[2], positionInitial)
         {
             Atq = 3;
+            TuileBloquées.Add(0);
+            TuileBloquées.Add(1);
         }
     }
 }

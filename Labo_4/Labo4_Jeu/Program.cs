@@ -26,6 +26,7 @@ namespace Labo4_Jeu
         } 
         public static void Main(string[] args)
         {
+            fenêtre.SetFramerateLimit(60);
             InitialiserScène();
             fenêtre.KeyPressed += (s, e) =>
             {

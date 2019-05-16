@@ -15,7 +15,7 @@ namespace Labo4_Jeu
         private int pV;
         private int déf;
         private int atq;
-        private List<uint> tuileBloquées;
+        
 
         public Vector2i Position
         {
@@ -47,15 +47,12 @@ namespace Labo4_Jeu
             set => atq = value;
         }
 
-        protected List<uint> TuileBloquées
-        {
-            get => tuileBloquées;
-            set => tuileBloquées = value;
-        }
+        protected List<uint> TuileBloquées { get; set; } = new List<uint>();
 
         public Entité(Texture texture, Vector2i position)
         {
             Position = position;
+            
             SpriteÀDessiner = new Sprite(texture);
         }
 
@@ -69,15 +66,15 @@ namespace Labo4_Jeu
             Vector2i nouvellePosition = deltaDePosition + Position;
             //Check s'il se trouvera toujour dans la carte
             bool PeutSeDeplacer =
-                (0 < nouvellePosition.X && nouvellePosition.X < Program.ScèneActuelle.CarteActuelle.NbLignes
-                                        && 0 < nouvellePosition.Y && nouvellePosition.Y <
+                (0 <= nouvellePosition.X && nouvellePosition.X < Program.ScèneActuelle.CarteActuelle.NbLignes
+                                        && 0 <= nouvellePosition.Y && nouvellePosition.Y <
                                         Program.ScèneActuelle.CarteActuelle.NbColonnes);
             //Check s'il sera sur une tuile interdite
             if (PeutSeDeplacer)
             {
-                uint futurTuile = Program.ScèneActuelle.CarteActuelle[nouvellePosition.X, nouvellePosition.Y];
+                uint futurTuile = Program.ScèneActuelle.CarteActuelle[nouvellePosition.Y, nouvellePosition.X];
                 foreach (var tuileAChecker in TuileBloquées)
-                    PeutSeDeplacer &= tuileAChecker != futurTuile;
+                    PeutSeDeplacer &= (tuileAChecker != futurTuile);
             }
 
             if (PeutSeDeplacer) Position = nouvellePosition;
