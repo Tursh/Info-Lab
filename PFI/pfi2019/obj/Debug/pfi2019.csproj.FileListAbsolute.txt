@@ -1,0 +1,14 @@
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/pfi2019.exe
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/pfi2019.pdb
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Audio.dll
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Graphics.dll
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.System.dll
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Window.dll
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Audio.xml
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Graphics.xml
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.System.xml
+/home/kyle/RiderProjects/pfi2019/pfi2019/bin/Debug/SFML.Window.xml
+/home/kyle/RiderProjects/pfi2019/pfi2019/obj/Debug/pfi2019.csprojResolveAssemblyReference.cache
+/home/kyle/RiderProjects/pfi2019/pfi2019/obj/Debug/pfi2019.csproj.CoreCompileInputs.cache
+/home/kyle/RiderProjects/pfi2019/pfi2019/obj/Debug/pfi2019.exe
+/home/kyle/RiderProjects/pfi2019/pfi2019/obj/Debug/pfi2019.pdb
